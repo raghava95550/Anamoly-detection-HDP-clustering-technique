@@ -8,5 +8,6 @@ File- Full code HDP giving codebook formed by binning, is jupyter notebook file.
 
 both files. In cell 6,we have to provide the input path to the video and annotation file(used for labeling the clips).
 Video used as input is IDIAP junction dataset(traffic-junction.avi).
+Dataset link: https://www.idiap.ch/~odobez/RESSOURCES/DataRelease-TrafficJunction.php
 
 Sample annotation file also provided. (Note: annotation should be in the format provided)
