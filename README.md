@@ -1,5 +1,6 @@
 # Anamoly-detection-HDP-clustering-technique
 Anamoly detection in traffic videos using HDP clustering method and Gaussian Naive bayes Classifier
+This is implementation of paper "Multiple Hierarchical Dirichlet Processes for Anomaly Detection in Traffic"
 
 File- Full code HDP directly giving motion vectors, is jupyter notebook file. Here for HDP clustering technique input we will provide is the magnitude of the history obtained from optocal flow.
 
